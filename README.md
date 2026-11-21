@@ -206,6 +206,21 @@ The final evaluation will identify their relative strengths, limitations and sui
 
 **Problem:** Traveling Salesman Problem (TSP)
 
+
+## 10. Testing With Pytest
+
+**Example** python -m pytest tests/test_distance.py -v
+
+Running the Tests
+
+Run all unit tests:
+
+python -m pytest -v
+
+Run the distance calculator tests specifically:
+
+python -m pytest tests/test_distance.py -v
+
 ---
 
 *This repository documents the development, implementation and experimental evaluation of the optimisation algorithms as part of an academic project.*
