@@ -190,7 +190,6 @@ tsp-search-optimisation/
 - [x] Algorithm implementation
 - [x] Experimental evaluation
 - [x] Statistical comparison
-- [ ] Final report and presentation
 
 ## 8. Expected Outcomes
 
