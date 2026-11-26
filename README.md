@@ -184,12 +184,12 @@ tsp-search-optimisation/
 - [x] Algorithm selection: Simulated Annealing and Genetic Algorithm
 - [x] Python virtual environment created
 - [x] Virtual environment activated
-- [ ] Project dependencies installed
-- [ ] Dataset exploration
-- [ ] TSP problem formulation
-- [ ] Algorithm implementation
-- [ ] Experimental evaluation
-- [ ] Statistical comparison
+- [x] Project dependencies installed
+- [x] Dataset exploration
+- [x] TSP problem formulation
+- [x] Algorithm implementation
+- [x] Experimental evaluation
+- [x] Statistical comparison
 - [ ] Final report and presentation
 
 ## 8. Expected Outcomes
